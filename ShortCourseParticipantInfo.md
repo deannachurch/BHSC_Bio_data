@@ -34,4 +34,14 @@ Clinical Fellow, Clinical Genetics Branch, NCI
 
 I am hoping to get a good understanding of basic bioinformatics so I can smartly handle exome sequencing data in my upcoming projects!
 - - -
+**Matthew Silva, PhD**
 
+Professor, Dept of Orthopaedic Surgery
+
+Washington University in Saint Louis
+
+Interest: Bone biology
+ 
+What I want to learn: RNAseq
+- - - 	
+>>>>>>> 798365fb85d923c3990eedde5db5566a6ecad1cb
