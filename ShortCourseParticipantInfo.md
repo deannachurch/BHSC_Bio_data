@@ -14,3 +14,6 @@
 
 ## Students
 
+Lindsay Rizzardi
+Research Interest: Epigenetics and genome-wide data analysis
+Goal: Learn how to manipulate, analyze, and interpret genome-wide data 
