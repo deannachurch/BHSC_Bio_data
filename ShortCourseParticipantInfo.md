@@ -13,4 +13,8 @@
 	Scientific Director, PDX and Cancer Avatar Program
 
 ## Students
+Payal Khincha
+Pediatric Hematologist Oncologist
+Clinical Fellow, Clinical Genetics Branch, NCI
+I am hoping to master the basics of informatics to be able to smartly handle exome sequencing data in upcoming projects!
 
