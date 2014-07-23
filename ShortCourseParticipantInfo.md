@@ -14,3 +14,7 @@
 
 ## Students
 
+Payal Khincha
+Pediatric Hematologist-Oncologist
+Clinical Fellow, Clinical Genetics Branch, NCI
+I am hoping to get a good understanding of basic bioinformatics so I can smartly handle exome sequencing data in my upcoming projects!
