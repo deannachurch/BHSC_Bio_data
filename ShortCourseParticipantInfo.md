@@ -14,6 +14,6 @@
 
 ## Students
 
-Lindsay Rizzardi
+Lindsay Rizzardi Johns Hopkins Center for Epigenetics
 Research Interest: Epigenetics and genome-wide data analysis
 Goal: Learn how to manipulate, analyze, and interpret genome-wide data 
