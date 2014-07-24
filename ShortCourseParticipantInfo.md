@@ -44,7 +44,6 @@ Interest: Bone biology
  
 What I want to learn: RNAseq
 - - - 	
-<<<<<<< HEAD
 **Danya Gordin**
 
 Institution: University of Massachusetts Amherst
@@ -61,8 +60,6 @@ And yet, in each human coupling, a thousand million sperm vie for a single egg. 
 -Doctor Manhattan
 - - -
 
-=======
-- - -
 **Houman Younessi, PhD**
 
 Research Professor, University of Connecticut
@@ -75,5 +72,12 @@ Researcher at DEBRA-Chile Foundation and Center of Genetics and Genomics-UDD
 
 My research interest is to investigate the genetic basis of an phenotypically and gentically heterogenous disease called Epidermolysis bullosa. To do so, I am planning on using a targeted re-sequencing panel of 38 previously described genes. 
 I would like to learn from this course how to manage NGS data in general. Would be nice to get to know available programs to process the data and even better if it is with hands-on examples. I know very little about bioinformatics, I have a molecular biology/genetics background.
+- - -
+
+**Nick Liu, MD**
+
+Urologic Oncology Fellow, Memorial Sloan Kettering Cancer Center
+
+I would like to have some basic understanding of bioinformatics.  I also would like to learn to use IGV as my project will use these tools!
 - - -
 
