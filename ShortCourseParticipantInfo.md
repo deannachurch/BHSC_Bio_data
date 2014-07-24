@@ -44,4 +44,11 @@ Interest: Bone biology
  
 What I want to learn: RNAseq
 - - - 	
+Nick Liu, MD
+
+Urologic Oncology Fellow, Memorial Sloan Kettering Cancer Center
+
+I would like to have some basic understanding of bioinformatics.  I also would like to learn to use IGV as my project will use these tools!
+
+
 >>>>>>> 798365fb85d923c3990eedde5db5566a6ecad1cb
