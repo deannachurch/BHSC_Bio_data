@@ -44,4 +44,19 @@ Interest: Bone biology
  
 What I want to learn: RNAseq
 - - - 	
->>>>>>> 798365fb85d923c3990eedde5db5566a6ecad1cb
+**Danya Gordin**
+
+Institution: University of Massachusetts Amherst
+
+Interest: Epigenetics
+
+Hope to Learn: Basic bioinformatics and how to handle large genome data sets.
+
+- - - 
+Not exactly what requested but successful fork and pull request.
+
+"“Thermodynamic miracles... events with odds against so astronomical they're effectively impossible, like oxygen spontaneously becoming gold. I long to observe such a thing.
+And yet, in each human coupling, a thousand million sperm vie for a single egg. Multiply those odds by countless generations, against the odds of your ancestors being alive; meeting; siring this precise son; that exact daughter... Until your mother loves a man she has every reason to hate, and of that union, of the thousand million children competing for fertilization, it was you, only you, that emerged. To distill so specific a form from that chaos of improbability, like turning air to gold... that is the crowning unlikelihood. The thermodynamic miracle."
+-Doctor Manhattan
+- - -
+
