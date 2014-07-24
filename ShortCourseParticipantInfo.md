@@ -14,3 +14,9 @@
 
 ## Students
 
+Yubo Chai
+Pharmacogenomics lab
+Mayo Clinic
+Rochester MN 55905
+
+I would like to know as much as possible regarding bioinformatics tools, principle of different type data analysis, interpret the results, and the available online tools and its usage.
