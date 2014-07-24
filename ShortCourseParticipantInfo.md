@@ -43,5 +43,9 @@ Washington University in Saint Louis
 Interest: Bone biology
  
 What I want to learn: RNAseq
-- - - 	
+- - -
+**Houman Younessi, PhD**
+Research Professor, University of Connecticut
+
+Would like to learn about the available data and their locations and formats
 >>>>>>> 798365fb85d923c3990eedde5db5566a6ecad1cb
