@@ -45,6 +45,7 @@ Interest: Bone biology
 What I want to learn: RNAseq
 - - - 	
 >>>>>>> 798365fb85d923c3990eedde5db5566a6ecad1cb
+
 **Ignacia Fuentes, Ph.D.**
 
 Researcher at DEBRA-Chile Foundation and Center of Genetics and Genomics-UDD
