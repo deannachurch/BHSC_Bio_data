@@ -80,7 +80,6 @@ Urologic Oncology Fellow, Memorial Sloan Kettering Cancer Center
 
 I would like to have some basic understanding of bioinformatics.  I also would like to learn to use IGV as my project will use these tools!
 - - -
-
 **Yubo Chai**
 Pharmacogenomics lab
 Mayo Clinic
@@ -90,3 +89,12 @@ Research interest:   pharmacogenomics of SSRI anti-depression
 
 I would like to know bioinformatics tools, principle of different type data analysis, interpret the results, and the available online tools and its usage.
 - - -
+=======
+**Anna Pristoupilova**
+
+PhD at Institute of Inherited Metabolic disorders, Charles University in Prague, Czech Republic
+
+Research interest: Determining molecular basis of inherited disease, mainly using bioinformatics analysis of NGS data
+
+I'd like to get update of bioinformatics tools and approaches and also absorb a bit of enthusiasm ;-)
+
