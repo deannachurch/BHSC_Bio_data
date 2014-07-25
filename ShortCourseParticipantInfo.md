@@ -80,7 +80,7 @@ Urologic Oncology Fellow, Memorial Sloan Kettering Cancer Center
 
 I would like to have some basic understanding of bioinformatics.  I also would like to learn to use IGV as my project will use these tools!
 - - -
-Test
+MeiYee Law, The Jackson Lab
 
 ----
 
