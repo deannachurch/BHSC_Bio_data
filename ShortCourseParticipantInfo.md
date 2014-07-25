@@ -104,6 +104,12 @@ I would like to know bioinformatics tools, principle of different type data anal
 
 - - -
 
+**MeiYee Law**
+
+ The Jackson Lab
+
+----
+
 **Anna Pristoupilova**
 
 PhD at Institute of Inherited Metabolic disorders, Charles University in Prague, Czech Republic
