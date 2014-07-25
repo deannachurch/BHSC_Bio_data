@@ -81,3 +81,12 @@ Urologic Oncology Fellow, Memorial Sloan Kettering Cancer Center
 I would like to have some basic understanding of bioinformatics.  I also would like to learn to use IGV as my project will use these tools!
 - - -
 
+**Yubo Chai**
+Pharmacogenomics lab
+Mayo Clinic
+Rochester MN 55905
+
+Research interest:   pharmacogenomics of SSRI anti-depression
+
+I would like to know bioinformatics tools, principle of different type data analysis, interpret the results, and the available online tools and its usage.
+- - -
